@@ -1,0 +1,4 @@
+#!/bin/bash
+
+/usr/bin/python /usr/share/python/python-eeml/example/scada_to_pachube.py >> /usr/share/python/python-eeml/example/log.txt
+echo "Execution finished at: $(date)" >> /usr/share/python/python-eeml/example/log.txt

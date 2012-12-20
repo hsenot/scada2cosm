@@ -1,0 +1,7 @@
+*~
+*.pyc
+build
+dist
+docs
+Python_EEML.egg-info
+.DS_Store

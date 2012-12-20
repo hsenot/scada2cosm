@@ -1,0 +1,1217 @@
+{
+    "items": [
+        {
+            "code": "state", 
+            "items": [
+                {
+                    "code": "NSW", 
+                    "items": [
+                        {
+                            "code": "Water", 
+                            "items": [
+                                {
+                                    "capacity": "29", 
+                                    "code": "HUMENSW", 
+                                    "label": "Hume Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Eraring Energy", 
+                                    "qty": "11.3274"
+                                }, 
+                                {
+                                    "capacity": "1500", 
+                                    "code": "TUMUT3", 
+                                    "label": "Tumut 3 Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Snowy Hydro Limited", 
+                                    "qty": "252.94148"
+                                }, 
+                                {
+                                    "capacity": "-", 
+                                    "code": "UPPTUMUT", 
+                                    "label": "Tumut 2 Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Snowy Hydro Limited", 
+                                    "qty": "397.81348"
+                                }, 
+                                {
+                                    "capacity": "70", 
+                                    "code": "BLOWERNG", 
+                                    "label": "Blowering Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Snowy Hydro Limited", 
+                                    "qty": "5.59525"
+                                }
+                            ], 
+                            "label": "Water", 
+                            "qty": "667.67761"
+                        }, 
+                        {
+                            "code": "Black Coal", 
+                            "items": [
+                                {
+                                    "capacity": "500", 
+                                    "code": "LD04", 
+                                    "label": "Liddell Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Macquarie Generation", 
+                                    "qty": "395.2142"
+                                }, 
+                                {
+                                    "capacity": "500", 
+                                    "code": "WW8", 
+                                    "label": "\"Wallerawang \"\"C\"\" Power Station\"", 
+                                    "leaf": true, 
+                                    "owner": "TRUenergy Pty Ltd", 
+                                    "qty": "401.15625"
+                                }, 
+                                {
+                                    "capacity": "700", 
+                                    "code": "MP2", 
+                                    "label": "Mt Piper Power Station", 
+                                    "leaf": true, 
+                                    "owner": "TRUenergy Pty Ltd", 
+                                    "qty": "670.81201"
+                                }, 
+                                {
+                                    "capacity": "500", 
+                                    "code": "WW7", 
+                                    "label": "\"Wallerawang \"\"C\"\" Power Station\"", 
+                                    "leaf": true, 
+                                    "owner": "TRUenergy Pty Ltd", 
+                                    "qty": "478.57495"
+                                }, 
+                                {
+                                    "capacity": "660", 
+                                    "code": "ER01", 
+                                    "label": "Eraring Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Origin Energy Electricity Limited", 
+                                    "qty": "699.42505"
+                                }, 
+                                {
+                                    "capacity": "660", 
+                                    "code": "ER03", 
+                                    "label": "Eraring Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Origin Energy Electricity Limited", 
+                                    "qty": "699.57507"
+                                }, 
+                                {
+                                    "capacity": "660", 
+                                    "code": "ER02", 
+                                    "label": "Eraring Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Origin Energy Electricity Limited", 
+                                    "qty": "700"
+                                }, 
+                                {
+                                    "capacity": "660", 
+                                    "code": "ER04", 
+                                    "label": "Eraring Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Origin Energy Electricity Limited", 
+                                    "qty": "669.84998"
+                                }, 
+                                {
+                                    "capacity": "700", 
+                                    "code": "MP1", 
+                                    "label": "Mt Piper Power Station", 
+                                    "leaf": true, 
+                                    "owner": "TRUenergy Pty Ltd", 
+                                    "qty": "671.82513"
+                                }, 
+                                {
+                                    "capacity": "500", 
+                                    "code": "LD01", 
+                                    "label": "Liddell Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Macquarie Generation", 
+                                    "qty": "442.14117"
+                                }, 
+                                {
+                                    "capacity": "660", 
+                                    "code": "BW04", 
+                                    "label": "Bayswater Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Macquarie Generation", 
+                                    "qty": "641.17749"
+                                }, 
+                                {
+                                    "capacity": "660", 
+                                    "code": "BW01", 
+                                    "label": "Bayswater Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Macquarie Generation", 
+                                    "qty": "662.64374"
+                                }, 
+                                {
+                                    "capacity": "660", 
+                                    "code": "BW03", 
+                                    "label": "Bayswater Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Macquarie Generation", 
+                                    "qty": "331.50073"
+                                }, 
+                                {
+                                    "capacity": "660", 
+                                    "code": "BW02", 
+                                    "label": "Bayswater Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Macquarie Generation", 
+                                    "qty": "627.87946"
+                                }, 
+                                {
+                                    "capacity": "660", 
+                                    "code": "VP5", 
+                                    "label": "\"Vales Point \"\"B\"\" Power Station\"", 
+                                    "leaf": true, 
+                                    "owner": "Delta Electricity", 
+                                    "qty": "651.40436"
+                                }
+                            ], 
+                            "label": "Black Coal", 
+                            "qty": "8743.17959"
+                        }, 
+                        {
+                            "code": "Coal Tailings", 
+                            "items": [
+                                {
+                                    "capacity": "150", 
+                                    "code": "REDBANK1", 
+                                    "label": "Redbank Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Redbank Project Pty Limited", 
+                                    "qty": "4"
+                                }
+                            ], 
+                            "label": "Coal Tailings", 
+                            "qty": "4"
+                        }, 
+                        {
+                            "code": "Wind", 
+                            "items": [
+                                {
+                                    "capacity": "47", 
+                                    "code": "GUNNING1", 
+                                    "label": "Gunning Wind Farm", 
+                                    "leaf": true, 
+                                    "owner": "Gunning Wind Energy Developments Pty Ltd", 
+                                    "qty": "28.00583"
+                                }, 
+                                {
+                                    "capacity": "140", 
+                                    "code": "CAPTL_WF", 
+                                    "label": "Capital Wind Farm", 
+                                    "leaf": true, 
+                                    "owner": "Infigen Energy Markets Pty Limited", 
+                                    "qty": "63.244003"
+                                }, 
+                                {
+                                    "capacity": "30", 
+                                    "code": "CULLRGWF", 
+                                    "label": "Cullerin Range Wind Farm", 
+                                    "leaf": true, 
+                                    "owner": "Origin Energy Electricity Limited", 
+                                    "qty": "15.097277"
+                                }, 
+                                {
+                                    "capacity": "48", 
+                                    "code": "WOODLWN1", 
+                                    "label": "Woodlawn Wind Farm", 
+                                    "leaf": true, 
+                                    "owner": "Woodlawn Wind Pty Ltd", 
+                                    "qty": "20.81699"
+                                }
+                            ], 
+                            "label": "Wind", 
+                            "qty": "127.1641"
+                        }, 
+                        {
+                            "code": "Natural Gas", 
+                            "items": [
+                                {
+                                    "capacity": "-", 
+                                    "code": "SITHE01", 
+                                    "label": "Smithfield Energy Facility", 
+                                    "leaf": true, 
+                                    "owner": "Marubeni Australia Power Services Pty Ltd", 
+                                    "qty": "156.62305"
+                                }, 
+                                {
+                                    "capacity": "181", 
+                                    "code": "CG4", 
+                                    "label": "Colongra Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Delta Electricity", 
+                                    "qty": "160.0825"
+                                }, 
+                                {
+                                    "capacity": "460", 
+                                    "code": "TALWA1", 
+                                    "label": "Tallawarra Power Station", 
+                                    "leaf": true, 
+                                    "owner": "TRUenergy Pty Ltd", 
+                                    "qty": "397"
+                                }
+                            ], 
+                            "label": "Natural Gas", 
+                            "qty": "713.70555"
+                        }
+                    ], 
+                    "label": "NSW", 
+                    "qty": "10255.72685"
+                }, 
+                {
+                    "code": "QLD", 
+                    "items": [
+                        {
+                            "code": "Natural Gas", 
+                            "items": [
+                                {
+                                    "capacity": "-", 
+                                    "code": "CPSA", 
+                                    "label": "Condamine Power Station A", 
+                                    "leaf": true, 
+                                    "owner": "QGC Sales Qld Pty Ltd", 
+                                    "qty": "107.05625"
+                                }, 
+                                {
+                                    "capacity": "160", 
+                                    "code": "YABULU", 
+                                    "label": "Townsville Gas Turbine", 
+                                    "leaf": true, 
+                                    "owner": "AGL Hydro Partnership", 
+                                    "qty": "152.10001"
+                                }, 
+                                {
+                                    "capacity": "82", 
+                                    "code": "YABULU2", 
+                                    "label": "Townsville Gas Turbine", 
+                                    "leaf": true, 
+                                    "owner": "AGL Hydro Partnership", 
+                                    "qty": "78.93001"
+                                }, 
+                                {
+                                    "capacity": "_", 
+                                    "code": "DDPS1", 
+                                    "label": "Darling Downs Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Origin Energy Electricity Limited", 
+                                    "qty": "613.42139"
+                                }, 
+                                {
+                                    "capacity": "385", 
+                                    "code": "SWAN_E", 
+                                    "label": "Swanbank E Gas Turbine", 
+                                    "leaf": true, 
+                                    "owner": "Stanwell Corporation Limited", 
+                                    "qty": "200.071"
+                                }
+                            ], 
+                            "label": "Natural Gas", 
+                            "qty": "1151.57866"
+                        }, 
+                        {
+                            "code": "Black Coal", 
+                            "items": [
+                                {
+                                    "capacity": "350", 
+                                    "code": "TARONG4", 
+                                    "label": "Tarong Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Stanwell Corporation Limited", 
+                                    "qty": "161.5"
+                                }, 
+                                {
+                                    "capacity": "350", 
+                                    "code": "TARONG1", 
+                                    "label": "Tarong Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Stanwell Corporation Limited", 
+                                    "qty": "317.25"
+                                }, 
+                                {
+                                    "capacity": "350", 
+                                    "code": "TARONG2", 
+                                    "label": "Tarong Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Stanwell Corporation Limited", 
+                                    "qty": "287"
+                                }, 
+                                {
+                                    "capacity": "280", 
+                                    "code": "GSTONE4", 
+                                    "label": "Gladstone Power Station", 
+                                    "leaf": true, 
+                                    "owner": "CS Energy Limited", 
+                                    "qty": "229.95"
+                                }, 
+                                {
+                                    "capacity": "280", 
+                                    "code": "GSTONE6", 
+                                    "label": "Gladstone Power Station", 
+                                    "leaf": true, 
+                                    "owner": "CS Energy Limited", 
+                                    "qty": "239.22499"
+                                }, 
+                                {
+                                    "capacity": "280", 
+                                    "code": "GSTONE3", 
+                                    "label": "Gladstone Power Station", 
+                                    "leaf": true, 
+                                    "owner": "CS Energy Limited", 
+                                    "qty": "245.7"
+                                }, 
+                                {
+                                    "capacity": "280", 
+                                    "code": "GSTONE2", 
+                                    "label": "Gladstone Power Station", 
+                                    "leaf": true, 
+                                    "owner": "CS Energy Limited", 
+                                    "qty": "250.95"
+                                }, 
+                                {
+                                    "capacity": "280", 
+                                    "code": "GSTONE1", 
+                                    "label": "Gladstone Power Station", 
+                                    "leaf": true, 
+                                    "owner": "CS Energy Limited", 
+                                    "qty": "242.55"
+                                }, 
+                                {
+                                    "capacity": "125", 
+                                    "code": "SWAN_B_3", 
+                                    "label": "Swanbank B Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Stanwell Corporation Limited", 
+                                    "qty": "91.584"
+                                }, 
+                                {
+                                    "capacity": "350", 
+                                    "code": "CALL_B_2", 
+                                    "label": "Callide B Power Station", 
+                                    "leaf": true, 
+                                    "owner": "CS Energy Limited", 
+                                    "qty": "199.75"
+                                }, 
+                                {
+                                    "capacity": "350", 
+                                    "code": "CALL_B_1", 
+                                    "label": "Callide B Power Station", 
+                                    "leaf": true, 
+                                    "owner": "CS Energy Limited", 
+                                    "qty": "202.40001"
+                                }, 
+                                {
+                                    "capacity": "350", 
+                                    "code": "STAN-4", 
+                                    "label": "Stanwell Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Stanwell Corporation Limited", 
+                                    "qty": "187.8"
+                                }, 
+                                {
+                                    "capacity": "350", 
+                                    "code": "STAN-1", 
+                                    "label": "Stanwell Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Stanwell Corporation Limited", 
+                                    "qty": "312.20001"
+                                }, 
+                                {
+                                    "capacity": "420", 
+                                    "code": "CPP_4", 
+                                    "label": "Callide Power Plant", 
+                                    "leaf": true, 
+                                    "owner": "Callide Power Trading Pty Ltd", 
+                                    "qty": "199.10001"
+                                }, 
+                                {
+                                    "capacity": "420", 
+                                    "code": "CPP_3", 
+                                    "label": "Callide Power Plant", 
+                                    "leaf": true, 
+                                    "owner": "Callide Power Trading Pty Ltd", 
+                                    "qty": "199.65001"
+                                }, 
+                                {
+                                    "capacity": "350", 
+                                    "code": "STAN-3", 
+                                    "label": "Stanwell Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Stanwell Corporation Limited", 
+                                    "qty": "186"
+                                }, 
+                                {
+                                    "capacity": "443", 
+                                    "code": "TNPS1", 
+                                    "label": "Tarong North Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Stanwell Corporation Limited", 
+                                    "qty": "442.60001"
+                                }, 
+                                {
+                                    "capacity": "350", 
+                                    "code": "STAN-2", 
+                                    "label": "Stanwell Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Stanwell Corporation Limited", 
+                                    "qty": "185.40001"
+                                }, 
+                                {
+                                    "capacity": "744", 
+                                    "code": "KPP_1", 
+                                    "label": "Kogan Creek Power Station", 
+                                    "leaf": true, 
+                                    "owner": "CS Energy Limited", 
+                                    "qty": "711.25"
+                                }, 
+                                {
+                                    "capacity": "426", 
+                                    "code": "MPP_2", 
+                                    "label": "Millmerran Power Plant", 
+                                    "leaf": true, 
+                                    "owner": "Millmerran Energy Trader Pty Ltd", 
+                                    "qty": "420.25"
+                                }, 
+                                {
+                                    "capacity": "350", 
+                                    "code": "TARONG3", 
+                                    "label": "Tarong Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Stanwell Corporation Limited", 
+                                    "qty": "313.25"
+                                }
+                            ], 
+                            "label": "Black Coal", 
+                            "qty": "5625.35905"
+                        }, 
+                        {
+                            "code": "Coal Seam Methane", 
+                            "items": [
+                                {
+                                    "capacity": "173", 
+                                    "code": "BRAEMAR6", 
+                                    "label": "Braemar 2 Power Station", 
+                                    "leaf": true, 
+                                    "owner": "NewGen Braemar 2 Partnership", 
+                                    "qty": "146.18057"
+                                }, 
+                                {
+                                    "capacity": "168", 
+                                    "code": "BRAEMAR3", 
+                                    "label": "Braemar Power Station ", 
+                                    "leaf": true, 
+                                    "owner": "Braemar Power Project Pty Ltd", 
+                                    "qty": "144.8"
+                                }, 
+                                {
+                                    "capacity": "168", 
+                                    "code": "BRAEMAR1", 
+                                    "label": "Braemar Power Station ", 
+                                    "leaf": true, 
+                                    "owner": "Braemar Power Project Pty Ltd", 
+                                    "qty": "145.20001"
+                                }, 
+                                {
+                                    "capacity": "173", 
+                                    "code": "BRAEMAR5", 
+                                    "label": "Braemar 2 Power Station", 
+                                    "leaf": true, 
+                                    "owner": "NewGen Braemar 2 Partnership", 
+                                    "qty": "146.73447"
+                                }
+                            ], 
+                            "label": "Coal Seam Methane", 
+                            "qty": "582.91505"
+                        }, 
+                        {
+                            "code": "Water", 
+                            "items": [
+                                {
+                                    "capacity": "18", 
+                                    "code": "KAREEYA3", 
+                                    "label": "Kareeya Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Stanwell Corporation Limited", 
+                                    "qty": "4.90625"
+                                }, 
+                                {
+                                    "capacity": "30", 
+                                    "code": "BARRON-2", 
+                                    "label": "Barron Gorge Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Stanwell Corporation Limited", 
+                                    "qty": "20.24"
+                                }
+                            ], 
+                            "label": "Water", 
+                            "qty": "25.14625"
+                        }
+                    ], 
+                    "label": "QLD", 
+                    "qty": "7384.99901"
+                }, 
+                {
+                    "code": "TAS", 
+                    "items": [
+                        {
+                            "code": "Water", 
+                            "items": [
+                                {
+                                    "capacity": "80", 
+                                    "code": "TREVALLN", 
+                                    "label": "Trevallyn Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "69.71003"
+                                }, 
+                                {
+                                    "capacity": "-", 
+                                    "code": "LEM_WIL", 
+                                    "label": "Lemonthyme / Wilmot  Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "48"
+                                }, 
+                                {
+                                    "capacity": "17", 
+                                    "code": "CLUNY", 
+                                    "label": "Cluny Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "11.83212"
+                                }, 
+                                {
+                                    "capacity": "40", 
+                                    "code": "MEADOWBK", 
+                                    "label": "Meadowbank Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "16.03338"
+                                }, 
+                                {
+                                    "capacity": "432", 
+                                    "code": "GORDON", 
+                                    "label": "Gordon Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "26.83576"
+                                }, 
+                                {
+                                    "capacity": "79.9", 
+                                    "code": "MACKNTSH", 
+                                    "label": "Mackintosh Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "75.14001"
+                                }, 
+                                {
+                                    "capacity": "10.5", 
+                                    "code": "ROWALLAN", 
+                                    "label": "Rowallan Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "5.7084"
+                                }, 
+                                {
+                                    "capacity": "90", 
+                                    "code": "TARRALEA", 
+                                    "label": "Tarraleah Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "59.9"
+                                }, 
+                                {
+                                    "capacity": "-", 
+                                    "code": "LI_WY_CA", 
+                                    "label": "Catagunya / Liapootah / Wayatinah Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "121.15672"
+                                }, 
+                                {
+                                    "capacity": "28", 
+                                    "code": "PALOONA", 
+                                    "label": "Paloona Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "21.98947"
+                                }, 
+                                {
+                                    "capacity": "100", 
+                                    "code": "POAT110", 
+                                    "label": "Poatina Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "117.07024"
+                                }, 
+                                {
+                                    "capacity": "85", 
+                                    "code": "CETHANA", 
+                                    "label": "Cethana Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "79.52724"
+                                }, 
+                                {
+                                    "capacity": "82.8", 
+                                    "code": "TRIBUTE", 
+                                    "label": "Tribute Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "71.21"
+                                }, 
+                                {
+                                    "capacity": "32.4", 
+                                    "code": "LK_ECHO", 
+                                    "label": "Lake Echo Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "24.45001"
+                                }, 
+                                {
+                                    "capacity": "43.2", 
+                                    "code": "FISHER", 
+                                    "label": "Fisher Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "32.68392"
+                                }, 
+                                {
+                                    "capacity": "115.6", 
+                                    "code": "REECE2", 
+                                    "label": "Reece Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "100.08001"
+                                }, 
+                                {
+                                    "capacity": "28", 
+                                    "code": "REPULSE", 
+                                    "label": "Repulse Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "22.160965"
+                                }, 
+                                {
+                                    "capacity": "125", 
+                                    "code": "TUNGATIN", 
+                                    "label": "Tungatinah Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "75.18004"
+                                }, 
+                                {
+                                    "capacity": "60", 
+                                    "code": "DEVILS_G", 
+                                    "label": "Devils Gate Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "56.9976"
+                                }, 
+                                {
+                                    "capacity": "79.9", 
+                                    "code": "BASTYAN", 
+                                    "label": "Bastyan Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "71.35001"
+                                }, 
+                                {
+                                    "capacity": "200", 
+                                    "code": "POAT220", 
+                                    "label": "Poatina Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "170.91464"
+                                }
+                            ], 
+                            "label": "Water", 
+                            "qty": "1277.930565"
+                        }, 
+                        {
+                            "code": "Wind", 
+                            "items": [
+                                {
+                                    "capacity": "-", 
+                                    "code": "WOOLNTH1", 
+                                    "label": "Woolnorth Studland Bay / Bluff Point Wind Farm", 
+                                    "leaf": true, 
+                                    "owner": "Hydro-Electric Corporation", 
+                                    "qty": "10.060016"
+                                }
+                            ], 
+                            "label": "Wind", 
+                            "qty": "10.060016"
+                        }, 
+                        {
+                            "code": "Natural Gas", 
+                            "items": [
+                                {
+                                    "capacity": "-", 
+                                    "code": "TVCC201", 
+                                    "label": "Tamar Valley Combined Cycle Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Aurora Energy (Tamar Valley) Pty Ltd", 
+                                    "qty": "186.26999"
+                                }
+                            ], 
+                            "label": "Natural Gas", 
+                            "qty": "186.26999"
+                        }
+                    ], 
+                    "label": "TAS", 
+                    "qty": "1474.260571"
+                }, 
+                {
+                    "code": "VIC", 
+                    "items": [
+                        {
+                            "code": "Brown Coal", 
+                            "items": [
+                                {
+                                    "capacity": "560", 
+                                    "code": "LYA4", 
+                                    "label": "Loy Yang A Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Loy Yang Marketing Management Company Pty Ltd", 
+                                    "qty": "507.60001"
+                                }, 
+                                {
+                                    "capacity": "530", 
+                                    "code": "LYA2", 
+                                    "label": "Loy Yang A Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Loy Yang Marketing Management Company Pty Ltd", 
+                                    "qty": "510"
+                                }, 
+                                {
+                                    "capacity": "560", 
+                                    "code": "LYA3", 
+                                    "label": "Loy Yang A Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Loy Yang Marketing Management Company Pty Ltd", 
+                                    "qty": "525.29999"
+                                }, 
+                                {
+                                    "capacity": "75", 
+                                    "code": "MOR3", 
+                                    "label": "Energy Brix Complex Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Energy Brix Australia Corporation Pty Ltd", 
+                                    "qty": "62.04"
+                                }, 
+                                {
+                                    "capacity": "360", 
+                                    "code": "YWPS2", 
+                                    "label": "Yallourn W Power Station", 
+                                    "leaf": true, 
+                                    "owner": "TRUenergy Yallourn Pty Ltd", 
+                                    "qty": "361.15189"
+                                }, 
+                                {
+                                    "capacity": "150", 
+                                    "code": "APS", 
+                                    "label": "Anglesea Power Station", 
+                                    "leaf": true, 
+                                    "owner": "State Electricity Commission (Vic)", 
+                                    "qty": "157.625"
+                                }, 
+                                {
+                                    "capacity": "200", 
+                                    "code": "HWPS8", 
+                                    "label": "Hazelwood Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hazelwood Power", 
+                                    "qty": "218"
+                                }, 
+                                {
+                                    "capacity": "200", 
+                                    "code": "HWPS1", 
+                                    "label": "Hazelwood Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hazelwood Power", 
+                                    "qty": "220"
+                                }, 
+                                {
+                                    "capacity": "200", 
+                                    "code": "HWPS3", 
+                                    "label": "Hazelwood Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hazelwood Power", 
+                                    "qty": "210"
+                                }, 
+                                {
+                                    "capacity": "200", 
+                                    "code": "HWPS2", 
+                                    "label": "Hazelwood Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hazelwood Power", 
+                                    "qty": "212"
+                                }, 
+                                {
+                                    "capacity": "200", 
+                                    "code": "HWPS5", 
+                                    "label": "Hazelwood Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hazelwood Power", 
+                                    "qty": "201"
+                                }, 
+                                {
+                                    "capacity": "200", 
+                                    "code": "HWPS4", 
+                                    "label": "Hazelwood Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hazelwood Power", 
+                                    "qty": "211"
+                                }, 
+                                {
+                                    "capacity": "200", 
+                                    "code": "HWPS7", 
+                                    "label": "Hazelwood Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hazelwood Power", 
+                                    "qty": "160"
+                                }, 
+                                {
+                                    "capacity": "560", 
+                                    "code": "LYA1", 
+                                    "label": "Loy Yang A Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Loy Yang Marketing Management Company Pty Ltd", 
+                                    "qty": "559.5"
+                                }, 
+                                {
+                                    "capacity": "30", 
+                                    "code": "MOR2", 
+                                    "label": "Energy Brix Complex Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Energy Brix Australia Corporation Pty Ltd", 
+                                    "qty": "28.16"
+                                }, 
+                                {
+                                    "capacity": "-", 
+                                    "code": "MOR1", 
+                                    "label": "Energy Brix Complex Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Energy Brix Australia Corporation Pty Ltd", 
+                                    "qty": "45.505"
+                                }, 
+                                {
+                                    "capacity": "200", 
+                                    "code": "HWPS6", 
+                                    "label": "Hazelwood Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Hazelwood Power", 
+                                    "qty": "196"
+                                }, 
+                                {
+                                    "capacity": "500", 
+                                    "code": "LOYYB1", 
+                                    "label": "Loy Yang B Power Station", 
+                                    "leaf": true, 
+                                    "owner": "IPM Australia Limited ", 
+                                    "qty": "525.1861"
+                                }, 
+                                {
+                                    "capacity": "360", 
+                                    "code": "YWPS1", 
+                                    "label": "Yallourn W Power Station", 
+                                    "leaf": true, 
+                                    "owner": "TRUenergy Yallourn Pty Ltd", 
+                                    "qty": "355.63797"
+                                }, 
+                                {
+                                    "capacity": "380", 
+                                    "code": "YWPS3", 
+                                    "label": "Yallourn W Power Station", 
+                                    "leaf": true, 
+                                    "owner": "TRUenergy Yallourn Pty Ltd", 
+                                    "qty": "369.83292"
+                                }, 
+                                {
+                                    "capacity": "380", 
+                                    "code": "YWPS4", 
+                                    "label": "Yallourn W Power Station", 
+                                    "leaf": true, 
+                                    "owner": "TRUenergy Yallourn Pty Ltd", 
+                                    "qty": "374.06708"
+                                }, 
+                                {
+                                    "capacity": "500", 
+                                    "code": "LOYYB2", 
+                                    "label": "Loy Yang B Power Station", 
+                                    "leaf": true, 
+                                    "owner": "IPM Australia Limited ", 
+                                    "qty": "524.4342"
+                                }
+                            ], 
+                            "label": "Brown Coal", 
+                            "qty": "6534.04016"
+                        }, 
+                        {
+                            "code": "Wind", 
+                            "items": [
+                                {
+                                    "capacity": "192", 
+                                    "code": "WAUBRAWF", 
+                                    "label": "Waubra Wind Farm", 
+                                    "leaf": true, 
+                                    "owner": "Pyrenees Wind Energy Development Pty Ltd", 
+                                    "qty": "8.686"
+                                }
+                            ], 
+                            "label": "Wind", 
+                            "qty": "8.686"
+                        }, 
+                        {
+                            "code": "Water", 
+                            "items": [
+                                {
+                                    "capacity": "31", 
+                                    "code": "WKIEWA2", 
+                                    "label": "West Kiewa Power Station", 
+                                    "leaf": true, 
+                                    "owner": "AGL Hydro Partnership", 
+                                    "qty": "12.75"
+                                }, 
+                                {
+                                    "capacity": "-", 
+                                    "code": "MURRAY", 
+                                    "label": "Murray 2 Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Snowy Hydro Limited", 
+                                    "qty": "288.94193"
+                                }, 
+                                {
+                                    "capacity": "31", 
+                                    "code": "WKIEWA1", 
+                                    "label": "West Kiewa Power Station", 
+                                    "leaf": true, 
+                                    "owner": "AGL Hydro Partnership", 
+                                    "qty": "27.11"
+                                }, 
+                                {
+                                    "capacity": "-", 
+                                    "code": "EILDON1", 
+                                    "label": "Eildon Power Station", 
+                                    "leaf": true, 
+                                    "owner": "AGL Hydro Partnership", 
+                                    "qty": "58.8"
+                                }
+                            ], 
+                            "label": "Water", 
+                            "qty": "387.60193"
+                        }, 
+                        {
+                            "code": "Natural Gas", 
+                            "items": [
+                                {
+                                    "capacity": "500", 
+                                    "code": "NPS", 
+                                    "label": "Newport Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Ecogen Energy Pty Ltd", 
+                                    "qty": "501"
+                                }
+                            ], 
+                            "label": "Natural Gas", 
+                            "qty": "501"
+                        }
+                    ], 
+                    "label": "VIC", 
+                    "qty": "7431.32809"
+                }, 
+                {
+                    "code": "SA", 
+                    "items": [
+                        {
+                            "code": "Wind", 
+                            "items": [
+                                {
+                                    "capacity": "34.5", 
+                                    "code": "STARHLWF", 
+                                    "label": "Starfish Hill Wind Farm", 
+                                    "leaf": true, 
+                                    "owner": "Starfish Hill Wind Farm Pty Ltd ", 
+                                    "qty": "10.1"
+                                }, 
+                                {
+                                    "capacity": "80.5", 
+                                    "code": "LKBONNY1", 
+                                    "label": "Lake Bonney Wind Farm", 
+                                    "leaf": true, 
+                                    "owner": "Essential Energy", 
+                                    "qty": "6.073037"
+                                }, 
+                                {
+                                    "capacity": "39", 
+                                    "code": "LKBONNY3", 
+                                    "label": "Lake Bonney Stage 3 Wind Farm", 
+                                    "leaf": true, 
+                                    "owner": "Lake Bonney Wind Power Pty Ltd", 
+                                    "qty": "1.28391"
+                                }, 
+                                {
+                                    "capacity": "159", 
+                                    "code": "LKBONNY2", 
+                                    "label": "Lake Bonney Stage 2 Windfarm", 
+                                    "leaf": true, 
+                                    "owner": "Lake Bonney Wind Power Pty Ltd", 
+                                    "qty": "6.03399"
+                                }, 
+                                {
+                                    "capacity": "70", 
+                                    "code": "MTMILLAR", 
+                                    "label": "Mt Millar Wind Farm", 
+                                    "leaf": true, 
+                                    "owner": "Mt Millar Wind Farm Pty Ltd", 
+                                    "qty": "14.264994"
+                                }, 
+                                {
+                                    "capacity": "66", 
+                                    "code": "CATHROCK", 
+                                    "label": "Cathedral Rocks Wind Farm", 
+                                    "leaf": true, 
+                                    "owner": "Cathedral Rocks Wind Farm Pty Ltd", 
+                                    "qty": "10.07"
+                                }, 
+                                {
+                                    "capacity": "90.75", 
+                                    "code": "WPWF", 
+                                    "label": "Wattle Point Wind Farm", 
+                                    "leaf": true, 
+                                    "owner": "AGL Hydro Partnership", 
+                                    "qty": "33"
+                                }
+                            ], 
+                            "label": "Wind", 
+                            "qty": "80.825931"
+                        }, 
+                        {
+                            "code": "Brown Coal", 
+                            "items": [
+                                {
+                                    "capacity": "265", 
+                                    "code": "NPS2", 
+                                    "label": "Northern Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Flinders Operating Services Pty Ltd", 
+                                    "qty": "261.01761"
+                                }, 
+                                {
+                                    "capacity": "265", 
+                                    "code": "NPS1", 
+                                    "label": "Northern Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Flinders Operating Services Pty Ltd", 
+                                    "qty": "263.30646"
+                                }, 
+                                {
+                                    "capacity": "240", 
+                                    "code": "PLAYB-AG", 
+                                    "label": "Playford B Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Flinders Operating Services Pty Ltd", 
+                                    "qty": "154.44609"
+                                }
+                            ], 
+                            "label": "Brown Coal", 
+                            "qty": "678.77016"
+                        }, 
+                        {
+                            "code": "Natural Gas / Fuel Oil", 
+                            "items": [
+                                {
+                                    "capacity": "120", 
+                                    "code": "TORRA2", 
+                                    "label": "\"Torrens Island Power Station \"\"A\"\"\"", 
+                                    "leaf": true, 
+                                    "owner": "AGL SA Generation Pty Limited ", 
+                                    "qty": "95.39987"
+                                }, 
+                                {
+                                    "capacity": "120", 
+                                    "code": "TORRA3", 
+                                    "label": "\"Torrens Island Power Station \"\"A\"\"\"", 
+                                    "leaf": true, 
+                                    "owner": "AGL SA Generation Pty Limited ", 
+                                    "qty": "117.95403"
+                                }, 
+                                {
+                                    "capacity": "200", 
+                                    "code": "TORRB4", 
+                                    "label": "\"Torrens Island Power Station \"\"B\"\"\"", 
+                                    "leaf": true, 
+                                    "owner": "AGL SA Generation Pty Limited ", 
+                                    "qty": "192.46001"
+                                }, 
+                                {
+                                    "capacity": "200", 
+                                    "code": "TORRB3", 
+                                    "label": "\"Torrens Island Power Station \"\"B\"\"\"", 
+                                    "leaf": true, 
+                                    "owner": "AGL SA Generation Pty Limited ", 
+                                    "qty": "196.06"
+                                }, 
+                                {
+                                    "capacity": "200", 
+                                    "code": "TORRB2", 
+                                    "label": "\"Torrens Island Power Station \"\"B\"\"\"", 
+                                    "leaf": true, 
+                                    "owner": "AGL SA Generation Pty Limited ", 
+                                    "qty": "200.07001"
+                                }, 
+                                {
+                                    "capacity": "200", 
+                                    "code": "TORRB1", 
+                                    "label": "\"Torrens Island Power Station \"\"B\"\"\"", 
+                                    "leaf": true, 
+                                    "owner": "AGL SA Generation Pty Limited ", 
+                                    "qty": "200.07001"
+                                }, 
+                                {
+                                    "capacity": "120", 
+                                    "code": "TORRA1", 
+                                    "label": "\"Torrens Island Power Station \"\"A\"\"\"", 
+                                    "leaf": true, 
+                                    "owner": "AGL SA Generation Pty Limited ", 
+                                    "qty": "109.17518"
+                                }
+                            ], 
+                            "label": "Natural Gas / Fuel Oil", 
+                            "qty": "1111.18911"
+                        }, 
+                        {
+                            "code": "Natural Gas", 
+                            "items": [
+                                {
+                                    "capacity": "-", 
+                                    "code": "OSB-AG", 
+                                    "label": "Osborne Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Origin Energy Electricity Limited", 
+                                    "qty": "145.6319"
+                                }, 
+                                {
+                                    "capacity": "-", 
+                                    "code": "PPCCGT", 
+                                    "label": "Pelican Point Power Station", 
+                                    "leaf": true, 
+                                    "owner": "Pelican Point Power Limited", 
+                                    "qty": "450.00903"
+                                }
+                            ], 
+                            "label": "Natural Gas", 
+                            "qty": "595.64093"
+                        }
+                    ], 
+                    "label": "SA", 
+                    "qty": "2466.426131"
+                }
+            ], 
+            "label": "By state"
+        }
+    ]
+}
